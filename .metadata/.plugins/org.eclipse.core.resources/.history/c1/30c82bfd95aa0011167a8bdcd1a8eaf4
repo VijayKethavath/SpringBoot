@@ -1,0 +1,56 @@
+package com.example.demo.methods;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.Student.Student;
+import com.example.demo.StudentRepository.StudentRepository;
+
+@RestController
+@RequestMapping("/Student")
+public class Methods {
+	
+	@Autowired
+	private StudentRepository repository;
+	
+	@PostMapping
+	public Student addStudent(@RequestBody Student student) {
+		return repository.save(student);
+	}
+	
+	@GetMapping
+	public List<Student> getStudent(){
+		return repository.findAll();
+	}
+	
+	@GetMapping("/{id}")
+	public Student getStudent(@PathVariable int id) {
+		return repository.findById(id).orElse(null);
+	}
+	
+	@PutMapping("/{id}")
+	public Student updateStudent(
+			@PathVariable int id;
+			@RequestBody Student student) {
+		
+		Student existStudent= repository.findById(id).orElse(null);
+		
+		if(existStudent != null) {
+			existStudent.setName(student.getName());
+			existStudent.setAge(student.getAge());
+			existStudent.setMarks(student.getMarks());
+			
+			return reposity.sav
+		}
+		
+	}
+	
+}
