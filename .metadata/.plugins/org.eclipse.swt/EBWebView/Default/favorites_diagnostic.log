@@ -311,3 +311,39 @@
 2026-09-10 09:23:19.139: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-09-10 09:23:19.139: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-10 09:23:19.139: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:19:45.587: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 09:19:12.684: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 09:19:12.684: [INFO] Profiles total count: 1
+2026-09-11 09:19:12.684: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-11 09:19:12.684: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 09:19:12.684: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 09:19:12.684: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 09:19:12.684: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 09:19:12.684: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 09:21:48.716: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 09:23:42.079: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 09:23:42.079: [INFO] Profiles total count: 1
+2026-09-11 09:23:42.079: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-11 09:23:42.079: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 09:23:42.079: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 09:23:42.079: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 09:23:42.079: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 09:23:42.079: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 13:34:06.978: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 16:20:30.937: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 16:20:30.937: [INFO] Profiles total count: 1
+2026-09-11 16:20:30.937: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-11 16:20:30.937: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 16:20:30.937: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 16:20:30.937: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 16:20:30.937: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 16:20:30.937: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 16:27:15.822: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 16:28:17.570: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 16:28:17.570: [INFO] Profiles total count: 1
+2026-09-11 16:28:17.570: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-11 16:28:17.570: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-11 16:28:17.570: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 16:28:17.570: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 16:28:17.570: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 16:28:17.570: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
