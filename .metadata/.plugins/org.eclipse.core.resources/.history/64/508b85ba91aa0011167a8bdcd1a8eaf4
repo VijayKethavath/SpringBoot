@@ -1,6 +1,0 @@
-package com.example.demo.StudentRepository;
-
-import.org.springframe.data.jpa.repository
-public interface StudentRepository extends JpaRepository<Student,Integer> {
-
-}
