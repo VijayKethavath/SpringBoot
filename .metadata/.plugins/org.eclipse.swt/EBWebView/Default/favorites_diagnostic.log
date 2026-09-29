@@ -429,3 +429,20 @@
 2026-09-22 12:47:22.713: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-22 12:47:22.713: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-22 13:09:52.830: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 02:28:07.711: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-25 02:28:07.711: [INFO] Profiles total count: 1
+2026-09-25 02:28:07.711: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-25 02:28:07.711: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-25 02:28:07.711: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 02:28:07.711: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 02:28:07.711: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 02:28:07.711: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 06:49:10.676: [INFO] CurrentProfilePath: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 06:49:10.676: [INFO] Profiles total count: 1
+2026-09-29 06:49:10.676: [INFO] Profile: name=Profile 1 path=C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-09-29 06:49:10.676: [INFO] LastUsedProfileDir: C:\Users\ketha\Desktop\JAVA\SpringBoot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 06:49:10.676: [INFO] OnDoneLoading sync enabled: 0
+2026-09-29 06:49:10.676: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-29 06:49:10.676: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-29 06:49:10.676: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 09:02:39.824: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

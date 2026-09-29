@@ -32,12 +32,5 @@ public class StController {
 	   return students;
    }
    
-   @ExceptionHandler(MethodArgumentNotValidException.class)
-   public String handleValidationException(MethodArgumentNotValidException ex) {
-
-       return ex.getBindingResult()
-               .getFieldErrors()
-               .get(0)
-               .getDefaultMessage();
-   }
+ 
 }
