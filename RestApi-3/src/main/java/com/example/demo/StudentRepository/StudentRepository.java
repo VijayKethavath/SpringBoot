@@ -7,5 +7,5 @@ import com.example.demo.Entity.Student;
 
 @Repository
 public interface StudentRepository extends JpaRepository<Student,Integer>{
-
+    
 }
